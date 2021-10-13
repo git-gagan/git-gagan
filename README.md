@@ -8,7 +8,8 @@
 ##### Python is my goto langauge and currently I am learning more about it, specifically Flask and OOPS.
 
 ##### I am always open for Tehcnical Communities and program where I can learn and grow.
-##### Reach me via Twitter:- https://twitter.com/__gaganraj__
+##### Reach me via Twitter:- 
+###### * [Atomic:](https://twitter.com/__gaganraj__)
 
 ##### P.S. I am a Public Speaker too 🎙
 
